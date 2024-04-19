@@ -804,5 +804,133 @@
         }
       ]
     }
+  ],
+  "kanban": [
+    {
+      "todo": {
+        "ID": "102",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "103",
+        "name": "Застреваем при входе из-за Face ID",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "planning",
+        "sender": "a.muratov@kbtu.kz",
+        "sender_id": "2112",
+        "CreatedAt": "04.12.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "104",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "doing",
+        "sender": "s.sultanov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "03.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "105",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "done",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "106",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "107",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "108",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "109",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    },
+    {
+      "todo": {
+        "ID": "110",
+        "name": "Нужны пуфики",
+        "description": "Иногда хочется просто посидеть и поделать урок, но для этого нужно...",
+        "state": "todo",
+        "sender": "d.syzdykov@kbtu.kz",
+        "sender_id": "2121312",
+        "CreatedAt": "04.24.2024",
+        "organization_id": 1738
+      },
+      "user_voted": true,
+      "vote_count": 420
+    }
   ]
 }
